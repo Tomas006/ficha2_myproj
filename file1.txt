@@ -1,0 +1,3 @@
+este é o exemplo de um ficheiro de testo file1
+
+:wq
